@@ -1,0 +1,27 @@
+#+TITLE: GBT 国家标准
+#+OPTIONS: ^:{}
+#+OPTIONS: html-postamble:nil
+
+#+INFOJS_OPT: view:nil toc:t ltoc:nil mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
+
+* 国家标准查询与购买地址
+- [[http://www.gb168.cn/std/indexpage/index.jsp][中国标准在线服务网]]
+- [[https://shop102274034.taobao.com/index.htm][中国标准在线网淘宝店 - 淘宝网]]
+- [[http://c.g.wanfangdata.com.cn/Standard.aspx][中外标准 - 万方数据知识服务平台]] (文献传递免费)
+- [[http://ss.zhizhen.com/][超星发现系统]] (文献传递免费)
+- 万方资源－中国国家标准全文数据库（下载到的是加密 PDF，需要安装 FileOpen 插件，本人没有成功打开）
+- [[http://sale.gb168.cn/Saleagent/Customer/Shopping/StandardDetails.aspx?StandNo=GB/T%207714-2015][GB/T 7714-2015 标准详细信息]]
+- [[http://sale.gb168.cn/Saleagent/Customer/Shopping/StandardDetails.aspx?StandNo=GB/T%207714-2005][GB/T 7714-2005 标准详细信息]]
+- [[http://sale.gb168.cn/Saleagent/Customer/Shopping/StandardDetails.aspx?StandNo=GB/T%207714-1987][GB/T 7714-1987 标准详细信息]]
+- GB/T 7713-1987 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713-1987.aspx][科学技术报告、学位论文和学术论文的编写格式]] / [[http://ss.zhizhen.com/detail_38502727e7500f2619dec76140cc2f62819e1c8d4d556fcb1921b0a3ea255101ec06fb7872c54b460677d2ea7ce87d7f2fd89eecd17b7df32555743e45f01ef3b5a68ac3a658022b3fc575f35277be71][科学技术报告、学位论文和学术论文的编写格式_超星发现系统]]
+- GB/T 7713.1-2006 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.1-2006.aspx][学位论文编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26c7e56d1669c9477d881d78aede9a9e851921b0a3ea255101ec06fb7872c54b461280b801026bbfa2ea09a95160b49d1a0c3bac05b5f59658362b6abf6eafe52ebb9277943cd1fdd7][学位论文编写规则_超星发现系统]]
+- GB/T 7713.3-2014 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.3-2014.aspx][科技报告编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26686118d0dd70b1bee716b0a58b70a7831921b0a3ea255101ec06fb7872c54b46dd91a2a01870838a74d056d6fdf3628a0eff3bdd8bf07ce5a05eb3ec36ae46b50c03d19589448f26][科技报告编写规则_超星发现系统]]
+- GB/T 7713.3-2009 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.3-2009.aspx][科技报告编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26d2f8cc15e5ad3e03664df545199bf1261921b0a3ea255101ec06fb7872c54b467ca821cfc226bd66bfbfd21af68dc6ed4d9768a5cddf31c7b95656942b4ba3d5d88526ea855f29fc][科技报告编写规则_超星发现系统]]
+- GB/T 3179-1992 [[http://ss.zhizhen.com/detail_38502727e7500f2619dec76140cc2f627ee22356ea7d1ee31921b0a3ea255101ec06fb7872c54b46871ad7c7fcbef0d089584184062664b80b9cb08992cda6c9cf152ccfe0d4bca45b6fd990d8fda269][科学技术期刊编排格式_超星发现系统]]
+#+BEGIN_COMMENT
+对于北理学生 这两个是最有用的，使用文献传递功能。
+- [[http://lib.bit.edu.cn/searchResource/standard.html?tabIndex=1&srLeftIndex=7][查找标准]]
+- [[http://ss.zhizhen.com/s?sw=7714&strchannel=6%2C15&size=15&isort=0&x=0_1060&pages=3&only1AdvWord=7714][北京理工大学超星发现系统]]
+- [[http://c.g.wanfangdata.com.cn/Standard.aspx][中外标准 - 万方数据知识服务平台]]
+#+END_COMMENT

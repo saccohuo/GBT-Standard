@@ -16,8 +16,8 @@
 - [[http://sale.gb168.cn/Saleagent/Customer/Shopping/StandardDetails.aspx?StandNo=GB/T%207714-1987][GB/T 7714-1987 标准详细信息]]
 - GB/T 7713-1987 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713-1987.aspx][科学技术报告、学位论文和学术论文的编写格式]] / [[http://ss.zhizhen.com/detail_38502727e7500f2619dec76140cc2f62819e1c8d4d556fcb1921b0a3ea255101ec06fb7872c54b460677d2ea7ce87d7f2fd89eecd17b7df32555743e45f01ef3b5a68ac3a658022b3fc575f35277be71][科学技术报告、学位论文和学术论文的编写格式_超星发现系统]]
 - GB/T 7713.1-2006 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.1-2006.aspx][学位论文编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26c7e56d1669c9477d881d78aede9a9e851921b0a3ea255101ec06fb7872c54b461280b801026bbfa2ea09a95160b49d1a0c3bac05b5f59658362b6abf6eafe52ebb9277943cd1fdd7][学位论文编写规则_超星发现系统]]
-- GB/T 7713.3-2014 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.3-2014.aspx][科技报告编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26686118d0dd70b1bee716b0a58b70a7831921b0a3ea255101ec06fb7872c54b46dd91a2a01870838a74d056d6fdf3628a0eff3bdd8bf07ce5a05eb3ec36ae46b50c03d19589448f26][科技报告编写规则_超星发现系统]]
 - GB/T 7713.3-2009 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.3-2009.aspx][科技报告编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26d2f8cc15e5ad3e03664df545199bf1261921b0a3ea255101ec06fb7872c54b467ca821cfc226bd66bfbfd21af68dc6ed4d9768a5cddf31c7b95656942b4ba3d5d88526ea855f29fc][科技报告编写规则_超星发现系统]]
+- GB/T 7713.3-2014 [[http://d.g.wanfangdata.com.cn/Standard_GB/T%207713.3-2014.aspx][科技报告编写规则]] / [[http://ss.zhizhen.com/detail_38502727e7500f26686118d0dd70b1bee716b0a58b70a7831921b0a3ea255101ec06fb7872c54b46dd91a2a01870838a74d056d6fdf3628a0eff3bdd8bf07ce5a05eb3ec36ae46b50c03d19589448f26][科技报告编写规则_超星发现系统]]
 - GB/T 3179-1992 [[http://ss.zhizhen.com/detail_38502727e7500f2619dec76140cc2f627ee22356ea7d1ee31921b0a3ea255101ec06fb7872c54b46871ad7c7fcbef0d089584184062664b80b9cb08992cda6c9cf152ccfe0d4bca45b6fd990d8fda269][科学技术期刊编排格式_超星发现系统]]
 #+BEGIN_COMMENT
 对于北理学生 这两个是最有用的，使用文献传递功能。
